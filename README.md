@@ -1,4 +1,4 @@
 # 10B-teszt
 
-Readme.md szerkesztése
+Readme.md változtatása
 valami
